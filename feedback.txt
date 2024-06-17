@@ -1,0 +1,29 @@
+CS2002 - W11-SP feedback - 
+
+Report
+
+- Very good report
+
+Design Implementation and Testing
+
+- Excellent description of of the implementation. Very good ties to prior practicals.
+
+- 22/22 queue tests passed
+- 27/27 blocking queue tests passed
+
+- Good description of the tests.
+
+Functionality
+
+- 13/13 queue tests passed
+- 13/13 blocking queue tests passed
+- Valgrind queue test passed
+- Valgrind blocking queue test passed
+
+Code Quality
+
+- Good code
+
+Overall Comments
+
+A coding practical containing code achieving all specified functionality, with unusual clarity of design and implementation, together with an outstandingly well-written report showing evidence of extensive background reading, a full knowledge of the subject and insight into the problem.
