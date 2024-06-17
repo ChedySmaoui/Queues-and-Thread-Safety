@@ -1,5 +1,11 @@
 # CS2002 W11-SP
 
+# Overview
+We were asked to write an array-based implementation of a dynamically chosen fixed-size generic queue in C. 
+We also had to design and implement unit tests to ensure the correct operation of our queue. Then, we had to extend our first Queue implementation to provide a thread-safe blocking queue implementation and unit tests for our Blocking Queue. My submission completes all required parts of the practical.
+
+### Grade Received: 20/20
+
 # 1. How to build
 
 See [Makefile](Makefile) for the build scripts.
