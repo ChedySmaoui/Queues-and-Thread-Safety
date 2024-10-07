@@ -1,8 +1,7 @@
-# CS2002 W11-SP
-
+# Quees and Thread Safety in C
+Please give me a star if this was useful to you!
 # Overview
-We were asked to write an array-based implementation of a dynamically chosen fixed-size generic queue in C. 
-We also had to design and implement unit tests to ensure the correct operation of our queue. Then, we had to extend our first Queue implementation to provide a thread-safe blocking queue implementation and unit tests for our Blocking Queue. My submission completes all required parts of the practical.
+This is an array-based implementation of a dynamically chosen fixed-size generic queue in C with unit tests ensuring the correct operation of our queue. It also contains an extended implementation of the first Queue implementation providing a thread-safe blocking queue implementation and unit tests for our Blocking Queue.
 
 ### Grade Received: 20/20
 
